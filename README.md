@@ -23,3 +23,6 @@
 
 ## Database name
 - calendar_event
+
+## Screencast url
+- https://drive.google.com/file/d/15wb9ZcFvhpBtA5TmF45HHf6j40tMgu1H/view
